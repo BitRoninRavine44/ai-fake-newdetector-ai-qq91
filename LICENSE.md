@@ -1,4 +1,4 @@
-# 
+# 轻量 AI Fake News Detector 工具。集成 可解释AI 和 AI可扩展性，性能最大化。
 
 
 
